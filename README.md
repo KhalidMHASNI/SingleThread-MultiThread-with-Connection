@@ -31,3 +31,11 @@
 
 #### Client Python :
 ![image](https://user-images.githubusercontent.com/82038554/227295223-a2c44f60-eb63-4c7a-a31d-6232898cc36d.png)
+
+### 3- Utiliser un outil Comme JMeeter pour tester les performances des deux serveurs
+
+### Multi-Thread server :
+![image](https://user-images.githubusercontent.com/82038554/227378746-971d5a72-88bf-43d8-9759-af5e9c068237.png)
+
+### Single-Thread server:
+![image](https://user-images.githubusercontent.com/82038554/227378973-fa44b092-c5fb-46bd-9ddf-259ef3365a88.png)
