@@ -1,4 +1,4 @@
-# SIngleThread-MultiThread-with-Connection
+# SingleThread-MultiThread-with-Connection
 # Activité Pratique N° 1 : Programmation Résaux
 ## 0 - Enoncé :
       1. Modèle Multi Threads Blocking IO (java.io):
